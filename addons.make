@@ -1,0 +1,3 @@
+ofxMultiKinectV2
+ofxRay
+ofxTurboJpeg

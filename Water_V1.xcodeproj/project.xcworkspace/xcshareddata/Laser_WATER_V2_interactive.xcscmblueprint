@@ -1,0 +1,78 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "17485E813862959E4F297CB5730BF1C0D4FF3547" : 0,
+    "E71E5D7A16B01AB780ADC5C4D1DF114B82BFDD6D" : 0,
+    "70414CB6A580ECF27508E6D393246B3F52EF6712" : 0,
+    "1E1FCA3426E3299B01ACF1BADD3B4F0D41721990" : 0,
+    "E5D2BF07F1BD4888430F12ADB292E9A68C0BFC76" : 0,
+    "88B9FC151DC341353CD8953242CE29BE15BF959C" : 0,
+    "999015EE524680C74335938659F70512196F22AD" : 0,
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : 0,
+    "F71958031D205D2C5B7FC71EE73A2878789BBF46" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CBFE3DA2-B5A4-4BDC-9C08-86EB5BD83CDB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "17485E813862959E4F297CB5730BF1C0D4FF3547" : "..\/..\/addons\/ofxRay",
+    "E71E5D7A16B01AB780ADC5C4D1DF114B82BFDD6D" : "..\/..\/addons\/ofxGrabCam",
+    "70414CB6A580ECF27508E6D393246B3F52EF6712" : "..\/..\/addons\/ofxHandDetect",
+    "1E1FCA3426E3299B01ACF1BADD3B4F0D41721990" : "..\/..\/addons\/ofxRayComposer",
+    "E5D2BF07F1BD4888430F12ADB292E9A68C0BFC76" : "..\/..\/addons\/ofxTurboJpeg",
+    "88B9FC151DC341353CD8953242CE29BE15BF959C" : "..\/..\/addons\/ofxMultiKinectV2",
+    "999015EE524680C74335938659F70512196F22AD" : "..\/..\/addons\/ofxAutoReloadedShader",
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : "..\/..\/addons\/ofxCv",
+    "F71958031D205D2C5B7FC71EE73A2878789BBF46" : "..\/..\/addons\/ofxIlda"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Laser_WATER_V2_interactive",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Laser_WATER_V2_interactive.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jonasfehr\/ofxRay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17485E813862959E4F297CB5730BF1C0D4FF3547"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jonasfehr\/ofxRayComposer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E1FCA3426E3299B01ACF1BADD3B4F0D41721990"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kylemcdonald\/ofxCv.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37526DA425E5430474A14FBFA1BC4525160B5FC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jonasfehr\/ofxHandDetect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70414CB6A580ECF27508E6D393246B3F52EF6712"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hanasaan\/ofxMultiKinectV2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88B9FC151DC341353CD8953242CE29BE15BF959C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/andreasmuller\/ofxAutoReloadedShader.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "999015EE524680C74335938659F70512196F22AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/armadillu\/ofxTurboJpeg.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E5D2BF07F1BD4888430F12ADB292E9A68C0BFC76"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:elliotwoods\/ofxGrabCam.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E71E5D7A16B01AB780ADC5C4D1DF114B82BFDD6D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jonasfehr\/ofxIlda",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F71958031D205D2C5B7FC71EE73A2878789BBF46"
+    }
+  ]
+}

@@ -79,14 +79,9 @@ void ofApp::update(){
                         pointsIldaSpace.push_back(pIldaSpace);
                     }
                 }
-                
             }
         }
-        
-        
-        
-        
-        
+
         float maxW = 0;
         for(auto & wp : wave.waveParticles){
             if(wp.p+RADIUS>maxW) maxW = wp.p+RADIUS;
@@ -119,7 +114,6 @@ void ofApp::update(){
     
     // Create Laser ouptut
     ofPolyline circleWaterwave;
-    rayCoords.clear();
     ofPoint center = ofPoint(0.5,0.5);
     float segAng = TWO_PI/RES_CIRCLE;
     for(int i = 0; i < RES_CIRCLE; i++){
@@ -170,61 +164,5 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 void ofApp::exit(){
-    
     this->kinectV2.close();
-}
-
-//--------------------------------------------------------------
-void ofApp::keyPressed(int key){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::keyReleased(int key){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::mouseMoved(int x, int y ){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::mouseDragged(int x, int y, int button){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::mousePressed(int x, int y, int button){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::mouseReleased(int x, int y, int button){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::mouseEntered(int x, int y){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::mouseExited(int x, int y){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::windowResized(int w, int h){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::gotMessage(ofMessage msg){
-    
-}
-
-//--------------------------------------------------------------
-void ofApp::dragEvent(ofDragInfo dragInfo){
-    
 }
